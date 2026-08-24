@@ -7,9 +7,9 @@
    ========================================================================== */
 
 const MOCK_TEST_LINKS = {
-  "clat-legal-reasoning-mock-01": "#REPLACE_WITH_CLAT_LEGAL_REASONING_MOCK_01_LINK",
-  "ailet-logical-reasoning-sprint": "#REPLACE_WITH_AILET_LOGICAL_REASONING_SPRINT_LINK",
-  "lsat-analytical-reasoning-set-01": "#REPLACE_WITH_LSAT_ANALYTICAL_REASONING_SET_01_LINK",
+  "clat-legal-reasoning-mock-01": "https://www.toprankers.com/legaledge-premium-test-series-2027",
+  "ailet-logical-reasoning-sprint": "https://www.toprankers.com/clat-2027-le-standard-test-series",
+  "lsat-analytical-reasoning-set-01": "https://www.toprankers.com/clat-2027-basic-test-series-legaledge",
 };
 
 document.addEventListener("DOMContentLoaded", () => {
